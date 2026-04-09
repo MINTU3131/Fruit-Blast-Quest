@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.nativegame.juicymatch"
+    namespace = "com.sharmatechlabs.fruitblastquest"
     compileSdk 36
 
     defaultConfig {
-        applicationId "com.nativegame.juicymatch"
+        applicationId "com.sharmatechlabs.fruitblastquest"
         minSdk 21
         targetSdk 36
         versionCode 7
